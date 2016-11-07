@@ -1,0 +1,6 @@
+# Please enter to http://www.geo-tag.de/ to find the correct values of your business
+countrycode: MX		# Country ISO code
+latitude: 00.0000 
+longitude: 00.0000
+ort: City name		# City name
+regionalcode: DIF
