@@ -33,6 +33,6 @@
   },
   "extra": {
     "bolt-assets": "web",
-    "bolt-class": "Bolt\\Extension\\ChronoLabs\\Geotags\\LeadInExtension"
+    "bolt-class": "Bolt\\Extension\\ChronoLabs\\Geotags\\GeotagsExtension"
   }
 }

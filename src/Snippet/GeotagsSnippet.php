@@ -47,7 +47,7 @@ class GeotagsSnippet
             'regionalcode' => $this->config->getRegionalcode()
         ];
 
-        return $this->view->render("tag.twig", $data);
+        return $this->view->render("geotags.twig", $data);
     }
 }
 
